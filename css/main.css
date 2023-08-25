@@ -16,7 +16,7 @@ body {
 .button-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 2vh;
+    justify-content: center;
 }
 
 .button-main {
