@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #00272B;
+}
+
+.menu-icon {
+    width: 10vh;
+    height: 8vh;
+    margin-bottom: 2vh;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2vh;
+}
+
+.button-main {
+    width: 70vh;
+    height: 43vh;
+    word-wrap: normal;
+    margin: 0;
+}
