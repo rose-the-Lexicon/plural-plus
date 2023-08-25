@@ -13,7 +13,7 @@ body {
     margin-bottom: 2vh;
 }
 
-.button-container {
+.button-container, .menu-navigator {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
