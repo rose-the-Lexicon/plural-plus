@@ -1,0 +1,12 @@
+body {
+    background-color:  #00272B;
+    display: flex;
+}
+
+.member-submit {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    color: antiquewhite;
+    width: 100%;
+}
